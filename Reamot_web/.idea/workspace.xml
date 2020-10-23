@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b1b41fdd-02f9-4162-9905-cc913c65c89d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/lyzSideNav.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/lyzSideNav.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/config/http.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/config/http.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/page/base/login/login.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/page/base/login/login.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/page/manage/make_up/info.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/page/manage/make_up/info.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/page/manage/make_up/student.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/page/manage/make_up/student.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/page/manage/message/message.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/page/manage/message/message.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/page/manage/server/server.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/router/index.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ifYq025HfZLVCd7rMYYCQtm0HH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/page/manage/make_up" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/page/manage/make_up" />
+      <recent name="$PROJECT_DIR$/src/page/manage" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="dev" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b1b41fdd-02f9-4162-9905-cc913c65c89d" name="Default Changelist" comment="" />
+      <created>1602300303178</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602300303178</updated>
+      <workItem from="1602300305610" duration="2612000" />
+      <workItem from="1602302979586" duration="2695000" />
+      <workItem from="1602374624248" duration="340000" />
+      <workItem from="1602600011991" duration="3040000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="94" y="26" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602300613047">
+      <screen x="0" y="23" width="1280" height="722" />
+    </state>
+    <state x="94" y="26" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.722@0.23.1280.722" timestamp="1602300613047" />
+    <state width="1259" height="141" key="GridCell.Tab.0.bottom" timestamp="1602603181531">
+      <screen x="0" y="23" width="1280" height="722" />
+    </state>
+    <state width="1259" height="179" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1602339452519" />
+    <state width="1259" height="141" key="GridCell.Tab.0.bottom/0.23.1280.722@0.23.1280.722" timestamp="1602603181531" />
+    <state width="1259" height="141" key="GridCell.Tab.0.center" timestamp="1602603181528">
+      <screen x="0" y="23" width="1280" height="722" />
+    </state>
+    <state width="1259" height="179" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1602339452518" />
+    <state width="1259" height="141" key="GridCell.Tab.0.center/0.23.1280.722@0.23.1280.722" timestamp="1602603181528" />
+    <state width="1259" height="141" key="GridCell.Tab.0.left" timestamp="1602603181524">
+      <screen x="0" y="23" width="1280" height="722" />
+    </state>
+    <state width="1259" height="179" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1602339452517" />
+    <state width="1259" height="141" key="GridCell.Tab.0.left/0.23.1280.722@0.23.1280.722" timestamp="1602603181524" />
+    <state width="1259" height="141" key="GridCell.Tab.0.right" timestamp="1602603181529">
+      <screen x="0" y="23" width="1280" height="722" />
+    </state>
+    <state width="1259" height="179" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1602339452518" />
+    <state width="1259" height="141" key="GridCell.Tab.0.right/0.23.1280.722@0.23.1280.722" timestamp="1602603181529" />
+    <state x="341" y="23" width="598" height="722" key="find.popup" timestamp="1602602679860">
+      <screen x="0" y="23" width="1280" height="722" />
+    </state>
+    <state x="341" y="23" width="598" height="722" key="find.popup/0.23.1280.722@0.23.1280.722" timestamp="1602602679860" />
+    <state x="462" y="301" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1602303032293">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="462" y="301" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1280.800@0.0.1280.800" timestamp="1602303032293" />
+  </component>
+</project>

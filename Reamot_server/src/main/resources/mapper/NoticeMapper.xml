@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.reamot.ex.mapper.NoticeMapper">
+
+        <!-- 通用查询映射结果 -->
+        <resultMap id="BaseResultMap" type="com.reamot.ex.entity.Notice">
+                    <id column="id" property="id"/>
+                    <result column="is_repeat" property="isRepeat"/>
+                    <result column="repeat_cnt" property="repeatCnt"/>
+                    <result column="time" property="time"/>
+                    <result column="dose" property="dose"/>
+                    <result column="has_dose" property="hasDose"/>
+                    <result column="has_repeat_cnt" property="hasRepeatCnt"/>
+                    <result column="medic_id" property="medicId"/>
+        </resultMap>
+
+        <!-- 通用查询结果列 -->
+        <sql id="Base_Column_List">
+            id, is_repeat, repeat_cnt, time, dose, has_dose, has_repeat_cnt, medic_id
+        </sql>
+
+</mapper>
